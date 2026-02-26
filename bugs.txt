@@ -1,0 +1,19 @@
+Known Issues:
+    - Texture can leave screen border bounds
+    - when entering fullscreen then exiting, cursor is visible
+    - Enemies resolutions are incorrect 
+    - Fix fire sprite not loading (**fixed**)
+    - Fix fire sprite fire in wrong direction (**fixed**)
+    - Fix fire sprite firing from the wrong location (**fixed**)
+
+TODO:
+    - Main Menu
+    - Countdown
+    - Pause Button
+    - Change Resolution
+    - Timer
+    - Abilites
+    - Explosion art 
+    - Sound FX 
+    - Physics
+    - enemy types, stronger, bigger ships, maybe with abilites
