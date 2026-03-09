@@ -1,4 +1,4 @@
-# Project Jet ✈️
+# Project Jet
 
 A simple 2D jet shooter built with SDL2.
 
