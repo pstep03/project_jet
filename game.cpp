@@ -32,7 +32,7 @@ void Game::init(){
     );
 
     if (!window){
-        std::cerr << SDL_GetError() << '\n'; // Check if window doens't work
+        std::cerr << SDL_GetError() << '\n'; // Check if window doesn't work
         running = false;
         return;
     }
